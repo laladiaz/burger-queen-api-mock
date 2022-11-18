@@ -102,6 +102,11 @@
       "password": "$2a$10$JABwR1UAtJqr2DCJ41ypMOgOqlh8eRXmTBO6DXfKG3ybxhABY4rey",
       "role": "admin",
       "id": 2
+    },
+    {
+      "email": "mena@suchito.com",
+      "password": "$2a$10$tZXVz6e.nAR60W1EmPilde81Wr6nKyn9dypCKxE9ma81LRDSS5MgG",
+      "id": 3
     }
   ]
 }
