@@ -108,6 +108,30 @@
       "password": "$2a$10$tZXVz6e.nAR60W1EmPilde81Wr6nKyn9dypCKxE9ma81LRDSS5MgG",
       "role": "kitchen",
       "id": 3
+    },
+    {
+      "email": "prueba1@suchito.com",
+      "password": "$2a$10$tZXVz6e.nAR60W1EmPilde81Wr6nKyn9dypCKxE9ma81LRDSS5MgG",
+      "role": "kitchen",
+      "id": 4
+    },
+    {
+      "email": "prueba2@suchito.com",
+      "password": "$2a$10$tZXVz6e.nAR60W1EmPilde81Wr6nKyn9dypCKxE9ma81LRDSS5MgG",
+      "role": "kitchen",
+      "id": 5
+    },
+    {
+      "email": "prueba3@suchito.com",
+      "password": "$2a$10$tZXVz6e.nAR60W1EmPilde81Wr6nKyn9dypCKxE9ma81LRDSS5MgG",
+      "role": "kitchen",
+      "id": 6
+    },
+    {
+      "email": "prueba4@suchito.com",
+      "password": "$2a$10$tZXVz6e.nAR60W1EmPilde81Wr6nKyn9dypCKxE9ma81LRDSS5MgG",
+      "role": "kitchen",
+      "id": 7
     }
   ]
 }
