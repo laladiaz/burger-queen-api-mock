@@ -67,26 +67,65 @@
   "products": [
     {
       "id": 1,
-      "name": "Sandwich de jamón y queso",
-      "price": 1000,
-      "image": "https://raw.githubusercontent.com/ssinuco/burger-queen-api-mock/main/resources/images/sandwich.png",
-      "type": "Desayuno",
+      "name": "California roll",
+      "price": 10,
+      "type": "Sushi menu",
       "dateEntry": "2022-03-05 15:14:10"
     },
     {
       "id": 2,
-      "name": "Café americano",
-      "price": 500,
-      "image": "https://raw.githubusercontent.com/ssinuco/burger-queen-api-mock/main/resources/images/coffee.png",
-      "type": "Desayuno",
+      "name": "Avocado roll",
+      "price": 15,
+      "type": "Sushi menu",
       "dateEntry": "2022-03-05 15:14:10"
     },
     {
       "id": 3,
-      "name": "Agua 500ml",
-      "price": 500,
-      "image": "https://raw.githubusercontent.com/ssinuco/burger-queen-api-mock/main/resources/images/water.png",
-      "type": "Almuerzo",
+      "name": "Masago Roll",
+      "price": 12,
+      "type": "Sushi menu",
+      "dateEntry": "2022-03-05 15:14:10"
+    },
+    {
+      "id": 4,
+      "name": "Jalapeño especial",
+      "price": 9.5,
+      "type": "Sushi menu",
+      "dateEntry": "2022-03-05 15:14:10"
+    },
+    {
+      "id": 5,
+      "name": "Yakimeshi",
+      "price": 9,
+      "type": "Sushi menu",
+      "dateEntry": "2022-03-05 15:14:10"
+    },
+    {
+      "id": 6,
+      "name": "Miso soup",
+      "price": 6,
+      "type": "Sushi menu",
+      "dateEntry": "2022-03-05 15:14:10"
+    },
+    {
+      "id": 7,
+      "name": "Frozen matcha te",
+      "price": 3.99,
+      "type": "Sushi menu",
+      "dateEntry": "2022-03-05 15:14:10"
+    },
+    {
+      "id": 8,
+      "name": "Calpis",
+      "price": 2.5,
+      "type": "Sushi menu",
+      "dateEntry": "2022-03-05 15:14:10"
+    },
+    {
+      "id": 9,
+      "name": "Soda",
+      "price": 2,
+      "type": "Sushi menu",
       "dateEntry": "2022-03-05 15:14:10"
     }
   ],
