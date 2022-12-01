@@ -123,11 +123,64 @@
       "price": 2,
       "type": "Sushi menu",
       "dateEntry": "2022-03-05 15:14:10"
-    },
-    {
+    }, {
       "id": 10,
-      "name": "Sake",
-      "price": 2,
+      "name": "Shrimp Kushiage",
+      "price": 7.5,
+      "type": "Sushi menu",
+      "dateEntry": "2022-03-05 15:14:10"
+    }, {
+      "id": 11,
+      "name": "Sake bottle",
+      "price": 19.99,
+      "type": "Open bar",
+      "dateEntry": "2022-03-05 15:14:10"
+    }, {
+      "id": 12,
+      "name": "Red wine glass",
+      "price": 4.5,
+      "type": "Open bar",
+      "dateEntry": "2022-03-05 15:14:10"
+    }, {
+      "id": 13,
+      "name": "White wine glass",
+      "price": 4.5,
+      "type": "Open bar",
+      "dateEntry": "2022-03-05 15:14:10"
+    }, {
+      "id": 14,
+      "name": "Oysters",
+      "price": 15,
+      "type": "Open bar",
+      "dateEntry": "2022-03-05 15:14:10"
+    }, {
+      "id": 15,
+      "name": "Crab Kushiage",
+      "price": 6.5,
+      "type": "Open bar",
+      "dateEntry": "2022-03-05 15:14:10"
+    }, {
+      "id": 16,
+      "name": "Margarita",
+      "price": 5.75,
+      "type": "Open bar",
+      "dateEntry": "2022-03-05 15:14:10"
+    }, {
+      "id": 17,
+      "name": "Cosmopolitan",
+      "price": 6.5,
+      "type": "Open bar",
+      "dateEntry": "2022-03-05 15:14:10"
+    }, {
+      "id": 18,
+      "name": "Lychee Martini",
+      "price": 8,
+      "type": "Open bar",
+      "dateEntry": "2022-03-05 15:14:10"
+    }, {
+      "id": 19,
+      "name": "Nigiri Mixto",
+      "price": 12,
       "type": "Open bar",
       "dateEntry": "2022-03-05 15:14:10"
     }
