@@ -1,3 +1,8 @@
+## Información de como lo usamos para el proyecto Suchito:
+
+Se subió a cyclic.sh y de ahi nos dió una URL para consumir el mock en nuestra aplicación.
+
+
 # Burger Queen API Mock
 
 Usando las librerías [json-server](https://github.com/typicode/json-server) 
