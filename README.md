@@ -1,6 +1,8 @@
 ## Información de como lo usamos para el proyecto Suchito:
 
-Se subió a cyclic.sh y de ahi nos dió una URL para consumir el mock en nuestra aplicación.
+Se subió a render.com y de ahi nos dió una URL para consumir el mock en nuestra aplicación. 
+
+https://burger-queen-api-mock.onrender.com
 
 
 # Burger Queen API Mock
